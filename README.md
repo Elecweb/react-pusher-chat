@@ -1,4 +1,4 @@
-Simple Chat using [Pusher](https://pusher.com/) and React
+Simple Chat using [Pusher](https://pusher.com/) React and Mobx.
 
 to serve this project, you need to create environment file (.env) and add pusher `key` (you can look at .env-example)
 and api server which we will provide code to github soon.
