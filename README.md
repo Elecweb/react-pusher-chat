@@ -10,8 +10,8 @@ public user can only subscribe public channel but private user can subscribe pub
 private user can be logged in by using *private* as username for login. for public user, just use anything other than *private* as username
 
 
-###Chat room 
+### Chat room 
 ![chat example](./.github/chat-example.png)
 
-###Login
+### Login
 ![login example](./.github/login-example.png)
